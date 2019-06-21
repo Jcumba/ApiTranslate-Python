@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "oval-tributary-238416",
+  "private_key_id": "7567922543f5010306c95d5cb76a411a10f35ad5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDuXZZL+pByfXLG\nrQ3etbbVq0NRdCac/sXgSJtmFBfbR2vWyUQsfFCOV0gUQm0mD9Zqk7fg91Z1p3Kn\nEGlVF4CrbDSaKhce29I37+8Kh1YnxW1qLLGIa+5YBD0wBu6ECBVMwYVH/dYH1eSL\n6jeFfWJrschxfNwaaZzAZMdrymS9KDxBCOHChz2jCz5yWU2CyrofHNS3zkXmBuoJ\nXPhSaRnSwEYKhw+z27uGwYwgbN3HhMsZdwiyNohrFo52D33PDBL4gdiLvCVoc20H\nkTJxDadmGHC0R0tgYIiDO38wtYZE9VxfhnwMS6GT8+ICPkdaQPTyQ1YdtQH2BkCS\nBrGiDZhFAgMBAAECggEASaqGroiLZ7a5aAlHhhKmpLY/IcdBv7dFNCF8VTnUfaI/\nA6xD83Of+b2juw8kaGTwoRNx+oa2I7pSRqtdwjx3OYNBZnunlZPeDgeK2rgkujnb\nrLqPS1f/2xfESTl7MTbGTmhoZm1eXiGOdmc2LX0ok5voFJq/8zG8jgEXWIq+Q265\nLJcZFHWnkUBR8SgaCB24r8kis7sAH8s4Hd1y+P3bC9HMuZDBPULaKkNgpeuLYXmm\nZ+0ph/VLfaYilPfRKuhNgqNe33UlLyTdMA3LdouhtITjpKPhQDl1tya6NjV/DXuT\nbI/ow6Ex/veE64+w3s3hKxAiBJs6b3wLEq5z7VNGqQKBgQD6iYp7+30hcSHOgI+f\nZSxL4CaQNhyJyHRwecMXaiVbU9jsqpcKWfmw8QU32ItNopSovzdo00YagGbBjd2F\nPJAu7Cf5Ogqe0/wx1Ik5Gxz9JoYjVvD13BRcnWK8m+idcbGDoweuWERkXgDm+m58\nkGX/0xKLaQ8sj2nWn+CATxi3ZwKBgQDzkBsOMQZeVqs8aEUNPNdsr1RGHRAAfCyg\nhwMAzcMF8CsDlgQOk+WjYdGG2PrZ0c7K8XkDu93oJ2LfpmoQMukxFixm1EJQweQ0\nY0BAQ5/R28m2LVap/2wf9VzGXHuLvFq2bldaAdzZ3MVncDTANzPdK7ZnGONs3QL2\nqikkgqsDcwKBgQCsDe7TzFcXs0jjNvjrHyD3jp0NJowct1P3tjcbimLTQFbV2SVX\nD4lhUXQi8QxhqYhsBr13uLgJFSr8O3/osznVb4rYJlsKzkwAsJP4ar1SwLUX6eoa\n/iPhopgfLPbnwR+GZlytB6MYRlJaTZu44bWapYqzwNeR439szGjx1OAFewKBgQCq\n78k9NYT9sp/s/lTwDHI4cfiYWI9Bd+SuKPMfnkkwIrVdh+yC+qNg/ibaF/A97PTQ\nE5bV2wTLiNDom9e2VLS6YZB5/qAoI1vwtHOEZrGEzFcNx1YaawvMhhw9juyaTm/v\ntxMRNVt1f27/wI0VFekNYT9brej3H0mUKipD2H0DJwKBgAHoe6aoorgMHkiokg43\n2zXibMQms3HhrC8b181r0TbnbyNdGg8+s3dx9J1xJqACZeXIuB4MpQFRjOSMco2x\nvlE0uSHquFHhZPn5/1B6TI0r73T7zSPQhwICnS3HIxDW4AxBQGTWJNWOU5FUFnbV\nHLilbdkQ2JVz+gPwda7oNKJP\n-----END PRIVATE KEY-----\n",
+  "client_email": "translate@oval-tributary-238416.iam.gserviceaccount.com",
+  "client_id": "103157046879494716901",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translate%40oval-tributary-238416.iam.gserviceaccount.com"
+}
